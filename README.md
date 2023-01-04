@@ -11,6 +11,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#instructions">Instructions</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -22,9 +23,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This is a simple notes application that I built using ReactJS. Notes that are created are stored in your local storage. 
 
+## Instructions
 
+To start, simply click on "Create Note" if you do not have any notes in local storage. To add a new note, click on the "+" icon on the top left hand corner of the screen. Enter your note within the markdown editor, and the notes will be auto-saved to your local storage. To delete note, hover over each note in the sidebar and click on the trash can icon. 
 
 ### Built With
 * [![React][React.js]][React-url]
