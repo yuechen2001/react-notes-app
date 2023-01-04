@@ -2,7 +2,7 @@
 
 ## Browser Notes: https://react-notes-yuechen.netlify.app
 
-<img height = 20% src= "https://user-images.githubusercontent.com/64315146/210554543-577aaef0-bf36-4a41-81fc-e3265e60ccd6.png" />
+<img width = "720" height = "400" src= "https://user-images.githubusercontent.com/64315146/210554543-577aaef0-bf36-4a41-81fc-e3265e60ccd6.png" />
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -25,7 +25,7 @@
 
 This is a simple notes application that I built using ReactJS. Notes that are created are stored in your local storage. 
 
-## Instructions
+### Instructions
 
 To start, simply click on "Create Note" if you do not have any notes in local storage. To add a new note, click on the "+" icon on the top left hand corner of the screen. Enter your note within the markdown editor, and the notes will be auto-saved to your local storage. To delete note, hover over each note in the sidebar and click on the trash can icon. 
 
@@ -35,7 +35,8 @@ To start, simply click on "Create Note" if you do not have any notes in local st
 
 
 <!-- CONTACT -->
-## Contact me via
+## Contact
+### I can be reached through - 
 - 📫 LinkedIn: https://www.linkedin.com/in/zhu-yuechen-1a603435/ 
 - 📧 Email: zhuyuechen@gmail.com
 
