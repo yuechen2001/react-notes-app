@@ -1,6 +1,7 @@
 <div id="readme-top"></div>
 
-## Browser Notes: https://react-notes-yuechen.netlify.app
+## Browser Notes
+### https://react-notes-yuechen.netlify.app
 
 <img width = "720" height = "400" src= "https://user-images.githubusercontent.com/64315146/210554543-577aaef0-bf36-4a41-81fc-e3265e60ccd6.png" />
 <!-- TABLE OF CONTENTS -->
